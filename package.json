@@ -65,7 +65,7 @@
     "lodash.debounce": "4.0.8",
     "portscanner": "1.2.0",
     "pug": "2.0.0-rc.4",
-    "superagent": "1.8.5"
+    "superagent": "7.0.2"
   },
   "build": {
     "productName": "WordPress.com",
