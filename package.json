@@ -60,12 +60,12 @@
   "dependencies": {
     "debug": "2.6.8",
     "electron-spellchecker": "github:ssbc/electron-spellchecker-prebuilt",
-    "express": "4.15.3",
+    "express": "4.22.0",
     "lodash.clonedeep": "4.5.0",
     "lodash.debounce": "4.0.8",
     "portscanner": "1.2.0",
     "pug": "2.0.0-rc.4",
-    "superagent": "1.8.5"
+    "superagent": "10.2.2"
   },
   "build": {
     "productName": "WordPress.com",
